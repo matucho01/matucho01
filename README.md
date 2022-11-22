@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matucho01
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning database management
+- 🌱 I’m currently learning agile methods for software development
 - 💞️ I’m looking to collaborate on any kind of projects, I like to learn
 - 📫 How to reach me :
       Instagram: @mateoperez1
