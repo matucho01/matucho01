@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matucho01
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning agile methods for software development
-- 💞️ I’m looking to collaborate on any kind of projects, I like to learn
+- 👀 I’m interested in Data Science, Web and Mobile Development
+- 🌱 I’m currently learning React and AWS
+- 💞️ I’m looking to collaborate on any kind of projects, I love to learn
 - 📫 How to reach me :
       Instagram: @mateoperez1
       Facebook: Mateo Pérez
