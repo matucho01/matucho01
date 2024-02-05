@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Mateo Pérez from Ecuador<br><br>- 🔭 I’m working as Software Engineering Intern<br>- 👀 I’m interested in Data Science, Web and Mobile Development<br>- 📚 I'm currently learning MongoDB, Genesys Cloud and Angular<br>- ⚡ In my free time I like to go road cycling</p>
+<p align="left">I'm Mateo Pérez from Ecuador<br><br>- 🔭 I’m working as Software Engineering Intern<br>- 👀 I’m interested in Data Science, Web and Mobile Development<br>- 📚 I'm currently learning Genesys Cloud, MongoDB and Angular<br>- ⚡ In my free time I like to go road cycling</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -44,6 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
