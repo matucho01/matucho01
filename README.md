@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Mateo Pérez from Ecuador<br><br>- 🔭 I’m working as Software Engineering Intern<br>- 👀 I’m interested in Data Science, Web and Mobile Development<br>- 📚 I'm currently learning Genesys Cloud, MongoDB and Angular<br>- ⚡ In my free time I like to go road cycling</p>
+<p align="left">I'm Mateo Pérez from Ecuador<br><br>- 🔭 I’m working as Software Engineer Intern<br>- 👀 I’m interested in Data Science, Web and Mobile Development<br>- 📚 I'm currently learning Genesys Cloud, MongoDB and Angular<br>- ⚡ In my free time I like to go road cycling</p>
 
 ###
 
